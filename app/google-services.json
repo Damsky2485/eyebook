@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "679954485987",
+    "project_id": "eyebooktwo",
+    "storage_bucket": "eyebooktwo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679954485987:android:5389eba2c41dfe4b916bd6",
+        "android_client_info": {
+          "package_name": "com.example.eyebooktwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679954485987-87knt15n58pjug363nfgp1j2ptkerkc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFaLvKh2FCQVQ0I5S6fXrajlYzmIvQ8Ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679954485987-87knt15n58pjug363nfgp1j2ptkerkc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
